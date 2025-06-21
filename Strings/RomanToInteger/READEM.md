@@ -1,15 +1,13 @@
-# Roman To Integer
+## Roman To Integer
 - LeetCode #3
 
-**Status:** Accepted on 3rd try ✅ 
+**Status:** Accepted on 5rd try ✅ 
 **Runtime:** 1 ms 
-**Memory:** 99.81 MB
+**Memory:** 49.05 MB
 
 ---
 
 ## 📈 Complexity
-```
-```
 
 - Time complexity: **O(n²)**
 
