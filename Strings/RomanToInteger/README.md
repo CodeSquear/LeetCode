@@ -1,13 +1,15 @@
-## Remove duplicates from sorted array
-- LeetCode #2
+# Roman To Integer
+- LeetCode #3
 
 **Status:** Accepted on 3rd try ✅ 
-**Runtime:** 0 ms 
-**Memory:** 100 MB
+**Runtime:** 1 ms 
+**Memory:** 99.81 MB
 
 ---
 
 ## 📈 Complexity
+```
+```
 
 - Time complexity: **O(n²)**
 

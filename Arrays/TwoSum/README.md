@@ -1,5 +1,4 @@
 ## TwoSum 
-# 🧮 Two Sum - LeetCode #1
 
 **Status:** Accepted on 1st try ✅  
 **Runtime:** 29 ms  
